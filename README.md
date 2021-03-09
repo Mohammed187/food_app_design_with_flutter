@@ -1,4 +1,4 @@
-# food_app_new
+# food_delivery_app_flutter
 
 Simple Food delivery app with Flutter, Just for practice ;).
 
