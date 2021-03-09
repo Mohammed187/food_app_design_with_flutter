@@ -1,6 +1,10 @@
 # food_app_new
 
-A new Flutter application.
+Simple Food delivery app with Flutter, Just for practice ;).
+
+# Screenshots 
+
+<img src="https://github.com/Mohammed187/food_app_design_with_flutter/blob/master/Screenshot_20210309_232016.png" height="500"> <img src="https://github.com/Mohammed187/food_app_design_with_flutter/blob/master/Screenshot_20210309_232021.png" height="500"> <img src="https://github.com/Mohammed187/food_app_design_with_flutter/blob/master/Screenshot_20210309_232033.png" height="500">
 
 ## Getting Started
 
